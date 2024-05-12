@@ -10,7 +10,7 @@ Imagem do projeto: https://github.com/MaduSales/Digital-Clock-React-Vite/assets/
 
 <br>
 
-Projeto feito com HTML, CSS, JavaScript, React.JS e Git de um relógio digital que exiba a hora atual e atualize em tempo real.
+Projeto feito com HTML, CSS, JavaScript, React.JS e Git de um relógio digital que exibe a hora atual e se atualiza em tempo real.
 <br>
 <br>
 <br>
